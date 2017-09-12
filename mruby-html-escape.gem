@@ -1,0 +1,6 @@
+name: mruby-html-escape
+description: HTML class
+author: masahino
+website: https://github.com/masahino/mruby-html-escape
+protocol: git
+repository: https://github.com/masahino/mruby-html-escape.git
